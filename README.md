@@ -1,8 +1,10 @@
 ## Trainal_RED
-TrainalRED - это приложение, которое позволяет вести персональную статистику индекса кердо и отправлять ее тренеру. Спортсмен записывает проводит произвольное количество упражнений в тренировке; записывает некоторые показатели до и после упражнения. Тренировка сохраняется в локальной БД Hive и Firebase.
+TrainalRED - это приложение, которое позволяет вести персональную статистику и отправлять ее тренеру. Спортсмен записывает проводит произвольное количество упражнений в тренировке; записывает некоторые показатели до и после упражнения. Тренировка сохраняется в локальной БД Hive и Firebase.
 
-TrainalRED is an application that allows you to keep personal statistics of the Kerdo index and send it to the coach. The athlete records an arbitrary number of exercises in training; records some indicators before and after the exercise. The training is saved in the local Hive and Firebase databases.
+TrainalRED is an application that allows you to keep personal statistics and send them to the coach. The athlete records an arbitrary number of exercises in training; records some indicators before and after the exercise. The training is saved in the local Hive and Firebase databases.
 
+## Используется - Using
+Bloc; dio; freezed; json_serializable; auto_route; hive; firebase_auth; cloud_firestore; fl_chart.
 
 ## Features
 
